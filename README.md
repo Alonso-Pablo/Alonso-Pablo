@@ -4,7 +4,7 @@
 
 ------------
 - 🌲 I'm currently know {
-	HTML5, CSS3 & Git
+	HTML5, CSS3, JavaScript & Git
 };
 
 - 🌱 I’m currently learning {
