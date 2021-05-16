@@ -8,7 +8,7 @@
 };
 
 - 🌱 I’m currently learning {
-	 JavaScript (ECMA6+), Figma, Webpack TypeScript & ReactJS
+	 JavaScript (ECMA6+), Figma, Webpack, TypeScript & ReactJS
 };
 ------------
 
@@ -16,7 +16,16 @@
 - 📫 How to reach me
 	[Linkedin](https://www.linkedin.com/in/pablo-nicol%C3%A1s-alonso-884510211/ "Linkedin") or
 	[Platzi Profile](https://platzi.com/p/Alonso-Pablo/ "Platzi Profile")
-<!---
+	
+	<!---
+------------
+- Repository:
+- 0001 - Work in Progress
+- 0520 - Clone
+- 7E57 - Test
+- F11E - Files
+
+
 Alonso-Pablo/Alonso-Pablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
