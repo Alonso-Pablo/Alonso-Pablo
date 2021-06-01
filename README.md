@@ -4,12 +4,13 @@
 
 ------------
 - 🌲 I'm currently know {
-	HTML5, CSS3, JavaScript & Git
+	HTML5, CSS3 (SCSS), JavaScript, npm & Git
 };
 
 - 🌱 I’m currently learning {
-	 JavaScript (ECMA6+), Figma, Webpack, TypeScript & ReactJS
+	 Nodejs, Figma, TypeScript & ReactJS
 };
+
 ------------
 
 
@@ -21,7 +22,7 @@
 ------------
 - Repository:
 - 0001 - Work in Progress
-- 0520 - Clone
+- E523 - Clone
 - 7E57 - Test
 - F11E - Files
 
