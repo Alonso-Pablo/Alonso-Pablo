@@ -15,9 +15,9 @@
 
 ### 📫 How to reach me:
 -
-	[Linkedin](https://www.linkedin.com/in/pablo-nicol%C3%A1s-alonso-884510211/ "Linkedin") or
-	[Platzi Profile](https://platzi.com/p/Alonso-Pablo/ "Platzi Profile")
-	[Email](mailto:someone@yoursite.com "Mail Yahoo")
+	- [Linkedin](https://www.linkedin.com/in/pablo-nicol%C3%A1s-alonso-884510211/ "Linkedin")
+	- [Platzi Profile](https://platzi.com/p/Alonso-Pablo/ "Platzi Profile")
+	- [Email](mailto:someone@yoursite.com "Mail Yahoo")
 	
 <!---
 ------------
