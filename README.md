@@ -1,8 +1,6 @@
 
-------------
 ## 👋 Hi, I'm [@Alonso-Pablo](https://github.com/Alonso-Pablo "@Alonso-Pablo")
 
-------------
 ### 🌲 I'm currently know {
 	HTML5, CSS3 (SASS), JavaScript, npm & Git
 ### };
