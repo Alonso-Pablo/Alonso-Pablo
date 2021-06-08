@@ -1,8 +1,8 @@
 
-## 👋 Hi, I'm [@Alonso-Pablo](https://github.com/Alonso-Pablo "@Alonso-Pablo")
+## 👋 Hi, I'm [@Alonso-Pablo](https://github.com/Alonso-Pablo "What's Up!")
 
 I like creating things and experimenting with Javascript 💛
-(Check out my [repositories](https://github.com/Alonso-Pablo?tab=repositories "Repositories" 👀).
+(Check out my [repositories](https://github.com/Alonso-Pablo?tab=repositories "My repositories 💻") 👀).
 
 ### 🌲 My Development Tools: [
 	Visual Studio Code,
@@ -26,9 +26,9 @@ I like creating things and experimenting with Javascript 💛
 
 ### 📫 How to reach me:
 -
-	- [Linkedin](https://www.linkedin.com/in/pablo-nicol%C3%A1s-alonso-884510211/ "Linkedin")
-	- [Platzi Profile](https://platzi.com/p/Alonso-Pablo/ "Platzi Profile")
-	- [Email](mailto:someone@yoursite.com "Send a Mail Yahoo")
+	- [Linkedin](https://www.linkedin.com/in/pablo-nicol%C3%A1s-alonso-884510211/ "My linkedin profile")
+	- [Platzi Profile](https://platzi.com/p/Alonso-Pablo/ "My Platzi profile")
+	- [Email](mailto:someone@yoursite.com "Send me an email")
 	
 <!---
 ------------
