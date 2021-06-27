@@ -6,8 +6,8 @@ I like creating things and experimenting with Javascript 💛
 
 ### 🌲 My Development Tools: [
 	Visual Studio Code,
-	HTML5,
-	CSS3 (SASS),
+	{ React: { HTML5, Style Component, SASS: {CSS3} },
+	Redux
 	JavaScript,
 	NPM,
 	Git,
@@ -16,10 +16,9 @@ I like creating things and experimenting with Javascript 💛
 ### ];
 
 ### 🌱 I’m currently learning [
-	 Nodejs,
-	 TypeScript
-	 React
-	 Redux
+	Nextjs,
+	Nodejs,
+	TypeScript
 ### ];
 
 ------------
