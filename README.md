@@ -1,5 +1,5 @@
 
-## 👋 Hi, I'm [@Alonso-Pablo](https://github.com/Alonso-Pablo "What's Up!")
+## 👋 [Hi!](https://github.com/Alonso-Pablo "What's Up!")
 
 I like creating things and experimenting with Javascript 💛
 (Check out my [repositories](https://github.com/Alonso-Pablo?tab=repositories "My repositories 💻") 👀).
