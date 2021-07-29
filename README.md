@@ -1,8 +1,7 @@
 
 ## 👋 [Hi!](https://github.com/Alonso-Pablo "What's Up!")
 
-I like creating things and experimenting with Javascript 💛
-(Check out my [repositories](https://github.com/Alonso-Pablo?tab=repositories "My repositories 💻") 👀).
+I like creating things and experimenting with [Javascript](https://github.com/Alonso-Pablo/game-of-life "Conway's Game of Life!") 💛
 
 ### 🌲 My Development Tools: [
 	Visual Studio Code,
@@ -18,7 +17,7 @@ I like creating things and experimenting with Javascript 💛
 ### 🌱 I’m currently learning [
 	Nextjs,
 	Nodejs,
-	TypeScript
+	MongoDB
 ### ];
 
 ------------
