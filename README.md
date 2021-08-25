@@ -6,7 +6,7 @@ Porfolio: alonso-pablo.vercel.app/
 
 ### 🔨 My Development Tools: [
 	Visual Studio Code,
-	{ React: { HTML5, Style Component, SASS: {CSS3} },
+	{ React: { HTML5, Style Component, SASS: { CSS } },
 	Redux
 	JavaScript,
 	NPM,
