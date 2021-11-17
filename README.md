@@ -1,24 +1,30 @@
 
-## 👋 [Hi!](https://github.com/Alonso-Pablo "What's Up!")
+## 👋 [Hi!](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Are you curious?")
 
-I like creating things and experimenting with [Javascript](https://github.com/Alonso-Pablo/game-of-life "Conway's Game of Life!") 💛
+I like creating awesome things and experimenting with [Javascript](https://github.com/Alonso-Pablo/game-of-life "Conway's Game of Life!") 💛
 - Porfolio: https://alonso-pablo.vercel.app/
 
 ### 🔨 My Development Tools: [
+	SO: { Ubuntu, Windows },
 	Visual Studio Code,
-	{ React: { HTML5, Style Component, SASS: { CSS } },
-	Redux
-	JavaScript,
+	NeoVim,
+	HTML5, CSS: { Styled Component, SASS },
+	JavaScript: { React, Redux },
+	Docker,
 	NPM,
 	Git,
 	Figma,
-	Adobe Illustrator
+	Adobe Illustrator,
 ### ];
 
 ### 🌱 I’m currently learning [
 	Nextjs,
-	Nodejs,
-	MongoDB
+	Nestjs,
+	Postgres,
+	Docker,
+	Jest,
+	Cypress,
+	MongoDB,
 ### ];
 
 ------------
