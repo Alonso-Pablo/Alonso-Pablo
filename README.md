@@ -33,7 +33,7 @@ I like creating awesome things and experimenting with [Javascript](https://githu
 -
 	- [Linkedin](https://www.linkedin.com/in/pablo-nicol%C3%A1s-alonso-884510211/ "My linkedin profile")
 	- [Platzi Profile](https://platzi.com/p/Alonso-Pablo/ "My Platzi profile")
-	- [Email](mailto:someone@yoursite.com "Send me an email")
+	- [Email](mailto:pablonicolas_alonso@yahoo.com "Send me an email")
 	
 <!---
 ------------
