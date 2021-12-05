@@ -1,28 +1,41 @@
 
-## 👋 [Hi!](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Are you curious?")
+## 👋 [Hi!](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Are you curious? 🦹")
 
-I like creating awesome things and experimenting with [Javascript](https://github.com/Alonso-Pablo/game-of-life "Conway's Game of Life!") 💛
-- Porfolio: https://alonso-pablo.vercel.app/
+> I like creating awesome things and experimenting with [Javascript](https://github.com/Alonso-Pablo/game-of-life "Conway's Game of Life!") 💛
+#### :file_folder: [Porfolio](https://alonso-pablo.vercel.app/ "Click it, Don't be shy")
+#### :octocat: [Check my GitHub Gist](https://gist.github.com/Alonso-Pablo "Curious things")
 
 ### 🔨 My Development Tools: [
-	SO: { Ubuntu, Windows },
+	SO: { 
+	  Ubuntu,
+	  Windows,
+	},
 	Visual Studio Code,
-	NeoVim,
-	HTML5, CSS: { Styled Component, SASS },
-	JavaScript: { React, Redux },
-	Docker,
-	NPM,
-	Git,
-	Figma,
 	Adobe Illustrator,
+	PostgreSQL,
+	Webpack,
+	Neovim,
+	Docker,
+	Figma,
+	Babel,
+	Git,
+	NPM,
+	HTML5,
+	JavaScript: { 
+	  React,
+	  Redux,
+	  Jest,
+	  Nest,
+	},
+	CSS3: { 
+	  Styled Component,
+	  SASS,
+	},
 ### ];
 
 ### 🌱 I’m currently learning [
 	Nextjs,
-	Nestjs,
-	Postgres,
-	Docker,
-	Jest,
+	Docker Compose,
 	Cypress,
 	MongoDB,
 ### ];
@@ -30,10 +43,9 @@ I like creating awesome things and experimenting with [Javascript](https://githu
 ------------
 
 ### 📫 How to reach me:
--
-	- [Linkedin](https://www.linkedin.com/in/pablo-nicol%C3%A1s-alonso-884510211/ "My linkedin profile")
-	- [Platzi Profile](https://platzi.com/p/Alonso-Pablo/ "My Platzi profile")
-	- [Email](mailto:pablonicolas_alonso@yahoo.com "Send me an email")
+#### [Linkedin](https://www.linkedin.com/in/pablo-nicol%C3%A1s-alonso-884510211/ "My linkedin profile")
+#### [Platzi Profile](https://platzi.com/p/Alonso-Pablo/ "My Platzi profile")
+#### [Email](mailto:pablonicolas_alonso@yahoo.com "Send me an email")
 	
 <!---
 ------------
