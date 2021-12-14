@@ -2,7 +2,7 @@
 ## 👋 [Hi!](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Are you curious? 🦹")
 
 > I like creating awesome things and experimenting with [Javascript](https://github.com/Alonso-Pablo/game-of-life "Conway's Game of Life!") 💛
-#### :file_folder: [Porfolio](https://alonso-pablo.vercel.app/ "Click it, Don't be shy")
+#### :file_folder: [Portfolio](https://alonso-pablo.vercel.app/ "Click it, Don't be shy")
 #### :octocat: [Check my GitHub Gist](https://gist.github.com/Alonso-Pablo "Curious things")
 
 ### 🔨 My Development Tools: [
