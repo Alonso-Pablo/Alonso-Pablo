@@ -38,6 +38,7 @@
 	Docker Compose,
 	Cypress,
 	MongoDB,
+	AWS,
 ### ];
 
 ------------
