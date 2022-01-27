@@ -6,25 +6,35 @@
 #### :octocat: [Check my GitHub Gist](https://gist.github.com/Alonso-Pablo "Curious things")
 
 ### 🔨 My Development Tools: [
+
 	SO: { 
 	  Ubuntu,
 	  Windows,
 	},
-	Visual Studio Code,
+	Editor: {
+	  Visual Studio Code,
+	  Vim,
+	},
 	Adobe Illustrator,
 	PostgreSQL,
 	Webpack,
-	Neovim,
 	Docker,
 	Figma,
 	Babel,
 	Git,
 	NPM,
+	PosgreSQL
+	Cypress,
 	HTML5,
 	JavaScript: { 
-	  React,
-	  Redux,
+	  React: {
+	    Nextjs,
+	    Redux,
+	  },
 	  Jest,
+	  Node,
+	  Passport,
+	  Bcrypt,
 	  Nest,
 	},
 	CSS3: { 
@@ -34,9 +44,7 @@
 ### ];
 
 ### 🌱 I’m currently learning [
-	Nextjs,
 	Docker Compose,
-	Cypress,
 	MongoDB,
 	AWS,
 ### ];
