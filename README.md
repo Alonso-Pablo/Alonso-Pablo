@@ -16,14 +16,13 @@
 	  Vim,
 	},
 	Adobe Illustrator,
-	PostgreSQL,
 	Webpack,
 	Docker,
 	Figma,
 	Babel,
 	Git,
 	NPM,
-	PosgreSQL
+	PostgreSQL
 	Cypress,
 	HTML5,
 	JavaScript: { 
