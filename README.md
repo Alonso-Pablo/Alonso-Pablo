@@ -6,45 +6,39 @@
 #### :octocat: [Check my GitHub Gist](https://gist.github.com/Alonso-Pablo "Curious things")
 
 ### 🔨 My Development Tools: [
-
-	"SO": [
-	  "Ubuntu",
-	  "Windows"
-	],
-	"Editor": {
-	  "Visual Studio Code",
-	  "NeoVim"
-	},
-	"JavaScript": {
-          "TypeScript": {
-	    "React": [
-	      "Nextjs",
-	      "Redux toolkit",
-	      "Tailwind",
-              "Styled Component",
-	      "CSS"
-	    ],
-            "Test": [
-	      "Jest",
-              "Cypress"
-	    ],
-            "Node": [
-	      "Express.js",
-              "Nest.js",
-	      "JWT",
-              "Passport",
-              "MongoDB",
-	      "PostgreSQL"
-	    ]
-          }
-	},
-        "Utils": [
-	  "Adobe Illustrator",
-	  "Docker",
-	  "Figma",
-	  "Git",
-	  "NPM"
-        ]
+```
+{
+  "SO": [
+    "Ubuntu",
+    "Windows"
+  ],
+  "Editor": "Visual Studio Code",
+  "JavaScript": {
+    "TypeScript": {
+      "React": [
+        "Nextjs",
+        "Redux toolkit",
+        "Tailwind",
+        "Styled Component",
+        "CSS"
+      ],
+      "Test": [
+        "Jest",
+        "Cypress"
+      ],
+      "Node": [
+        "Express.js",
+        "Nest.js",
+        "JWT",
+        "Passport",
+        "MongoDB",
+        "PostgreSQL"
+      ]
+    }
+  },
+  "Utils": ["Docker", "Figma", "Git"]
+}
+```
 ### ];
 
 ------------
